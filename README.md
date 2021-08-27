@@ -82,7 +82,6 @@ Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este últi
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 <br>TypeScript
     </td>
-    <td align="center" width="96"> 
   </tr>
 </table>
 

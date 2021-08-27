@@ -4,7 +4,7 @@
 </h1>
 <br>
 
-
+<h2 align="left">Sobre mí 😁</h2>
 Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este último tiempo es redescubierto mi pasión por la programación y estoy avanzando a pasos agigantados aprendiendo todo lo que se me cruza por el camino mientras disfruto hacer lo que más me apasiona!. 
 <a href="https://samujjwaal.tech/"><img src="Bitmoji.png" align="right" height="200" /></a>
 

@@ -92,7 +92,7 @@ Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este últi
 <a href="https://t.me/julyanpatricio">
   <img align="left" alt="Telegram" width="22px" src="icons/telegram.svg"" />
 </a>
-<a href="malito:julyan.patricio@gmail.com">
+<a href="julyan.patricio@gmail.com">
   <img align="left" alt="Gmail" width="22px" src= "icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/julianrodriguezdev">

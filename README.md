@@ -5,7 +5,7 @@
 <br>
 
 <h2 align="left">Sobre mí 😁</h2>
-Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este último tiempo es redescubierto mi pasión por la programación y estoy avanzando a pasos agigantados aprendiendo todo lo que se me cruza por el camino mientras disfruto hacer lo que más me apasiona!. 
+Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este último tiempo he redescubierto mi pasión por la programación y estoy avanzando a pasos agigantados aprendiendo todo lo que se me cruza por el camino mientras disfruto hacer lo que más me apasiona!. 
 <a href="https://samujjwaal.tech/"><img src="Bitmoji.png" align="right" height="200" /></a>
 
 - 🌱 Me gusta mucho disfrutar de la naturaleza y espero pronto realizar actividades como senderismo, alpinismo, etc.
@@ -92,7 +92,7 @@ Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este últi
 <a href="https://t.me/julyanpatricio">
   <img align="left" alt="Telegram" width="22px" src="icons/telegram.svg"" />
 </a>
-<a href="malito:julyan.patricio@gmail.com">
+<a href="mailto:julyan.patricio@gmail.com">
   <img align="left" alt="Gmail" width="22px" src= "icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/julianrodriguezdev">

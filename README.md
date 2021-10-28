@@ -13,6 +13,8 @@ Hola! Mi nombre es Julián. Si bien soy licenciado en biotecnología, este últi
 - 👯 En cuanto a la personalidad, generalmente soy una persona alegre y me gusta hacer reir a los demás. Algo que me caracteriza mucho también es que soy una persona muy empatica y disfruto ayudando a los demas en lo que pueda.
 - 📫 Abajo tenes links para contactarme!
 
+<h2 align="left">Web personal</h2>
+https://julyanpatricio.github.io/
 
 <h2 align="left">⚡ Lenguajes y herramientas</h2>
 <table>
